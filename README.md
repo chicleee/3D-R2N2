@@ -6,7 +6,7 @@ This is a PaddlePaddle2.0 implementation of the paper [《3D-R2N2: A Unified App
 
 See the [official repo](http://https://github.com/chrischoy/3D-R2N2) in Theano, as well as overview of the method.
 
-My repo:
+[AI Studio Notebook.](https://aistudio.baidu.com/aistudio/projectdetail/1631256) 
 
 For now, only the residual GRU-based architecture with neighboring recurrent unit connection is implemented. It is called 
 **Res3D-GRU-3** in the paper.
@@ -52,6 +52,8 @@ Update Settings in work/3D-R2N2/config.py
 %cd work/3D-R2N2/
 !python3 runner.py
 ```
+
+[download best checkpoint](https://aistudio.baidu.com/aistudio/datasetdetail/73641) 
 
 
 ```python
