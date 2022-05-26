@@ -147,18 +147,10 @@ Update Settings in work/3D-R2N2/config.py
 **Results in this experiment:**
 
 
-
 **5 Views, Valid BCE = 0.7134, Valid IoU = 0.68196**, 
 
 **On the test set, when t=0.30， IoU=0.6799**
 
-
-
-It is much higher than that in the original paper.
-
-# visualization logdir：work/3D-R2N2/output/logs
-![](https://ai-studio-static-online.cdn.bcebos.com/f07e09395b994963960f0977661dad840d02d3d085e64f798776b700759d75f3)
-![](https://ai-studio-static-online.cdn.bcebos.com/f7c02934aa5343eca1f85cdaf50e51ea436aeb8ef0064387ba30a0050ff5781a)
 
 
 # references
